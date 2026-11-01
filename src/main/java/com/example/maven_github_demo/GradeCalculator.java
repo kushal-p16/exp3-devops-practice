@@ -3,7 +3,7 @@ package com.example.maven_github_demo;
 public class GradeCalculator {
 
     public static int calculateTotal(int m1, int m2, int m3) {
-        return m1 + m2 + m3;
+        return m1 + m2 + unknown;
     }
 
     public static double calculateAverage(int m1, int m2, int m3) {
